@@ -58,6 +58,9 @@ TODO.md
 ignore_this.txt
 *.ignore.*
 
+# Secrets and API keys
+mcp_agent.secrets.yaml
+
 # unit-test files
 test_*
 run_indexer_with_filtering.py
